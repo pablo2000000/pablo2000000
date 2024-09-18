@@ -1,0 +1,86 @@
+*{
+    margin:0;
+}
+
+.text{
+    padding: 10% 43%;
+    background-color:grey;
+    width: 100%;
+
+   
+}
+.xkomik{
+    color: white;
+}
+
+
+header{
+    padding: 10px 3%;
+    background-color:black;
+    position: fixed;
+    top:0;
+    left:0;
+    display: flex;
+    justify-content: space-between;
+    width: 96%;
+}
+nav{
+    display: flex;
+    
+}
+
+header a{
+    text-decoration: none;
+    color: grey;
+    font-size: 32px;
+    margin-left: 50px;
+    
+    
+}
+
+
+
+body{
+    width: 100%;
+    
+    
+}
+
+header{
+    tex-decoration: none;
+
+}
+.fotki{
+    display: inline;
+    
+}
+.zdj{
+    height: 300px;
+    
+}
+.produkty{
+    display: flex;
+    justify-content: space-around;
+
+}
+figcaption{
+    text-align: center;
+}
+.logggo{
+    height: 100px;
+}
+.text{
+    font-size: 200%;
+}
+footer{
+    padding:10px 0;
+    text-align: center;
+    color:white;
+}
+.post>*{
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle;
+    margin-top: 10%;
+}
